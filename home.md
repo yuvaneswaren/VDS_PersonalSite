@@ -19,6 +19,7 @@ Outside the code editor, you’ll find me geeking out over new research papers, 
 If any of that sounds exciting, let’s connect!!! I’m always up for a good conversation or collaboration.  
 
 </br>
+
 # Courses Taken  
 
 Here’s a snapshot of the graduate-level courses I’ve taken as part of my **M.S. in Computer Science at UIC**:  
@@ -35,7 +36,7 @@ Here’s a snapshot of the graduate-level courses I’ve taken as part of my **M
 
 > **IP:** *In Progress (Fall 2025)*  
 
-<\br>
+</br>
 
 # Skills Snapshot
 

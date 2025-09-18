@@ -1,6 +1,6 @@
 ---
 title: Contact
-photo: contact.jpg
+photo: ../photos/contact.jpg
 ---
 
 # 📬 Get in Touch  
