@@ -1,6 +1,5 @@
 ---
 title: Contact
-layout: base
 ---
 
 # 📬 Get in Touch  
