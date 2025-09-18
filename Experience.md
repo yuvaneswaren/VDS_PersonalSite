@@ -1,6 +1,6 @@
 ---
-name: Prof. Jakob Eriksson
-title: Struggling News Editor
+name: Yuvaneswaren Ramakrishnan Sureshbabu
+title: Graduate Student
 photo: ../photos/portrait2.jpg
 ---
 

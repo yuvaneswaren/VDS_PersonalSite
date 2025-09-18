@@ -1,6 +1,6 @@
 ---
-name: Prof. Jakob Eriksson
-title: Recent Rust enthusiast
+name: Yuvaneswaren Ramakrishnan Sureshbabu
+title: Graduate Student
 ---
 
 # Projects  
