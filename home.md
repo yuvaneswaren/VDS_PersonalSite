@@ -1,5 +1,5 @@
 ---
-photo: ../photos/portrait3.jpg
+photo: ../photos/Yuvan.jpg
 title: Graduate Student
 ---
 # About Me  
