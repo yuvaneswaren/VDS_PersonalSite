@@ -24,17 +24,64 @@ If any of that sounds exciting, let’s connect!!! I’m always up for a good co
 
 Here’s a snapshot of the graduate-level courses I’ve taken as part of my **M.S. in Computer Science at UIC**:  
 
-| **Course Code** | **Course Title**             | **Grade** | **Credit Hours** |
-|-----------------|-----------------------------|-----------|------------------|
-| CS 401          | Computer Algorithms I        | A         | 4.0 |
-| CS 483          | Big Data Mining              | A         | 4.0 |
-| CS 559          | Neural Networks              | A         | 4.0 |
-| CS 515          | Advanced Computer Vision     | A         | 4.0 |
-| ECE 407         | Pattern Recognition I        | A         | 4.0 |
-| CS 421 *(IP)*   | Language Processing          | —         | 4.0 |
-| CS 529 *(IP)*   | Visual Data Science          | —         | 4.0 |
+</br>
 
-> **IP:** *In Progress (Fall 2025)*  
+<table style="width:100%; border-collapse:separate; border-spacing: 0 10px;">
+  <thead>
+    <tr>
+      <th align="left">Course Code</th>
+      <th align="left">Course Title</th>
+      <th align="center">Grade</th>
+      <th align="center">Credit Hours</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>CS 401</td>
+      <td>Computer Algorithms I</td>
+      <td align="center">A</td>
+      <td align="center">4.0</td>
+    </tr>
+    <tr>
+      <td>CS 483</td>
+      <td>Big Data Mining</td>
+      <td align="center">A</td>
+      <td align="center">4.0</td>
+    </tr>
+    <tr>
+      <td>CS 559</td>
+      <td>Neural Networks</td>
+      <td align="center">A</td>
+      <td align="center">4.0</td>
+    </tr>
+    <tr>
+      <td>CS 515</td>
+      <td>Advanced Computer Vision</td>
+      <td align="center">A</td>
+      <td align="center">4.0</td>
+    </tr>
+    <tr>
+      <td>ECE 407</td>
+      <td>Pattern Recognition I</td>
+      <td align="center">A</td>
+      <td align="center">4.0</td>
+    </tr>
+    <tr>
+      <td>CS 421 <em>(IP)</em></td>
+      <td>Language Processing</td>
+      <td align="center">—</td>
+      <td align="center">4.0</td>
+    </tr>
+    <tr>
+      <td>CS 529 <em>(IP)</em></td>
+      <td>Visual Data Science</td>
+      <td align="center">—</td>
+      <td align="center">4.0</td>
+    </tr>
+  </tbody>
+</table>
+
+<p><strong>IP:</strong> <em>In Progress (Fall 2025)</em></p>
 
 </br>
 
