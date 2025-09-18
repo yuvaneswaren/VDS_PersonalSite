@@ -1,22 +1,32 @@
 ---
 photo: ../photos/portrait3.jpg
-title: Ruler of Eternal Night
+title: Graduate Student
 ---
-# About me
-My name is Jegadit S Saravanan, and I am a MS CS student at UIC. I did my Bachelors in Computer Science and Engineering at Amrita Vishwa Vidyapeetham, Coimbatore.
+# About Me  
+
+Hey there 👋 — I’m **Yuvaneswaren**, a curious mind currently diving deep into **Computer Science at UIC**.  
+I love turning messy data into something meaningful, and building AI systems that actually solve real problems.  
+
+I’ve gone from exploring cybersecurity in undergrad to engineering data pipelines at **Chargebee**, to now crafting projects that span **computer vision, machine learning, and automation**.  
+Whether it’s predicting flight delays, teaching a model to read faces, or designing a lightning-fast image search system, I enjoy the challenge of taking an idea from *concept* to *working solution*.  
 
 </br>
 
-I used to be really into cybersecurity, but I’ve since shifted my focus to Computer Vision for healthcare & robotics. I am also intersted in AI/ML, & computation optimization as well.
+Outside the code editor, you’ll find me geeking out over new research papers, tinkering with model architectures, or brainstorming ways to make tech more human-centered.  
 
 </br>
 
-I am always eager to explore new technologies & concepts. Throughout my academic journey & professional experiences, I’ve consistently sought opportunities to apply my skills and knowledge to real-world problems, pushing the boundaries & delivering impactful solutions.
+If any of that sounds exciting, let’s connect — I’m always up for a good conversation or collaboration.  
 
 </br>
 
-If you share my interests or just want to talk, feel free to reach out to me.
+# Skills Snapshot
+
+**Languages:** Python, Java, SQL, JavaScript, HTML, CSS  
+**Frameworks:** PyTorch, TensorFlow, Flask, React, scikit-learn, OpenCV, PySpark  
+**Tools:** Tableau, GitHub Actions, VSCode, Roboflow, WandB  
+**Focus Areas:** Computer Vision, Machine Learning, Data Engineering, Model Optimization
 
 # portfolio
 
-You can find my portfolio [here](https://rulerofeternalnight.github.io/).
+You can find my portfolio [here](https://sites.google.com/view/yuvaneswaren/home).
