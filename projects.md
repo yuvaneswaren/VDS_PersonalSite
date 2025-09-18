@@ -1,6 +1,7 @@
 ---
 name: Yuvaneswaren Ramakrishnan Sureshbabu
 title: Graduate Student
+photo: ../photos/project.jpg
 ---
 
 # Projects  
